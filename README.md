@@ -108,7 +108,7 @@ You need to have Node.js, NPM, and hardhat installed on your computer, also shou
 
    <br>
 
-9. And finally to run the app
+9. And finally run the app
 
    ```` 
    npm run dev
